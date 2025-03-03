@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Node.js",
+    "description": "Study the basics of Node.js"
+  },
+  {
+    "id": 2,
+    "title": "Practicing DSA",
+    "description": "Solve 7 Leetcode problems daily"
+  }
+]
